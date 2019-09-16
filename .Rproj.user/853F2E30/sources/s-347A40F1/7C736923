@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568596735709.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7C736923",
+    "lastKnownWriteTime" : 1568597014,
+    "last_content_update" : 1568597340076,
+    "path" : "C:/Users/anuar/Desktop/DATA_SCIENCE_ML/RStudio/R_projects/Review/W1/RawProject_Add_VersionControl_Git/From_LocalRepo_to_VCS_Git_Remote_Repo.R",
+    "project_path" : "From_LocalRepo_to_VCS_Git_Remote_Repo.R",
+    "properties" : {
+        "cursorPosition" : "12,111",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
